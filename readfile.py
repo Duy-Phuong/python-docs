@@ -2,10 +2,10 @@ import os
 import shutil
 
 # path = 'F:\\Tai-lieu\\Videos\\Udemy\\Spring & Hibernate for Beginners (includes Spring Boot)'
-path = 'F:\\Tai-lieu\\Videos\\Udemy\\The Complete React Developer Course (w Hooks and Redux)'
+path = 'F:\\Tai-lieu\\Videos\\Udemy\\Full Stack Project Spring Boot 2.0, ReactJS, Redux'
 
 old_path = path
-folder_copy = 'F:\\source_git\\react\\react-docs\\Source\\The Complete React Developer Course (w Hooks and Redux)'
+folder_copy = 'F:\\programing\\language\\java\\java-e-commerce\\Source\\Full Stack Project Spring Boot 2.0, ReactJS, Redux'
 
 files = []
 dir = []

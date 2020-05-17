@@ -3,7 +3,7 @@ import os
 
 
 def un_zip_files(path, des_folder_path):
-    # path = 'D:\\docker\\test folder'
+    # path = 'F:\\programing\\language\\react\\react-docs\\Source\\The Complete React Developer Course (w Hooks and Redux)\\16. Firebase Authentication'
     files = os.listdir(path)
     for file in files:
         if file.endswith('.zip'):
@@ -17,7 +17,8 @@ def un_zip_files(path, des_folder_path):
 
 
 def main():
-    un_zip_files('D:\\docker\\test folder', '')
+    path = 'F:\\programing\\language\\react\\react-docs\\Source\\The Complete React Developer Course (w Hooks and Redux)\\16. Firebase Authentication'
+    un_zip_files(path, '')
 
 
 if __name__ == "__main__":
