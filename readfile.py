@@ -2,10 +2,10 @@ import os
 import shutil
 
 # path = 'F:\\Tai-lieu\\Videos\\Udemy\\Spring & Hibernate for Beginners (includes Spring Boot)'
-path = 'F:\\Tai-lieu\\Videos\\Udemy\\Full Stack Project Spring Boot 2.0, ReactJS, Redux'
+path = 'C:\\Users\\Admin\\Downloads\\[FreeCourseLab.com] Udemy - Jenkins 2 Bootcamp Fully Automate Builds to Deployment 2019'
 
 old_path = path
-folder_copy = 'F:\\programing\\language\\java\\java-e-commerce\\Source\\Full Stack Project Spring Boot 2.0, ReactJS, Redux'
+folder_copy = 'D:\\Temp\\docker\\Source\\Jenkins 2 Bootcamp Fully Automate Builds to Deployment 2020'
 
 files = []
 dir = []
