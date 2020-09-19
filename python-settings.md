@@ -2,6 +2,8 @@
 
 ## WINDOWS Python Setup
 
+https://www.tutorialsteacher.com/python
+
 ### 1. Installing Python On a PC
 
 Search python/ open file location
